@@ -1,0 +1,1 @@
+docker run -d --hostname overmind --name "orbital-command" rabbitmq
